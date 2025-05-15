@@ -1,23 +1,25 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #港澳台-1频道
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台
-https://ali.hlspull.yximgs.com/live/09a114ff1190f74e4767183f4218a0fd.flv
+https://smt.1789.dpdns.org/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港澳台频道",TVB无线新闻
-https://ali.hlspull.yximgs.com/live/e9951699c0e2e7c062c832c2cee1ddae.flv
+https://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台频道",TVB明珠台
 https://ali.hlspull.yximgs.com/live/9f5fd501c2b29ee435ed00de4d4aca98.flv
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台频道",纬来体育
-https://player.ggiptv.com/vplay.php?token=Dry%2FasQM%2BVwnIjOSx%2F1zdZsr&tid=wintv123&id=79&p=1
+https://v4-5d0c7b68cc16e296da25095c872bee1f.livehwc3.cn/hls.yjjcfw.com/live/vl.m3u8?edge_slice=true&hwSecret=05eb9dd9d24f678be8971ba241ec278720544dc87d6630fbdb2b2864ce64ee66&sub_m3u8=true&hwTime=68256ACE&user_session_id=813af3a93868632f1f6fdb36a390d5d1
+#EXTINF:-1 tvg-id="纬来体育2" tvg-name="纬来体育台2" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台频道",纬来体育2
+http://cdn100.bkpcp.top:8278/videolandsport/playlist.m3u8?tid=M18E1G023596915646903&ct=20106&tsum=d4c7cc5a1a7b0c454cc86412a0369eac
 #EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai7.png" group-title="港澳台频道",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",凤凰中文
-https://player.ggiptv.com/vplay.php?token=as6qJ5uE%2Bd3BaYu%2FaeMmEOXO&tid=wintv123&id=2&p=1
+https://cdn.16899.ggff.net/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",凤凰中文2
 http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",凤凰资讯
-https://player.ggiptv.com/vplay.php?token=%2FgsZL96wpFA2GxQUg76J0h9c&tid=wintv123&id=3&p=1
+https://live.cdn.com.mp/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",凤凰香港
-https://ali.hlspull.yximgs.com/live/609bb15c1b193b4e62c84cf886a3438c.flv
+https://cdn6.16899.ggff.net/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-id="香港有线18台" tvg-name="香港有线18台" tvg-logo="https://live.fanmingming.com/tv/香港有线18台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",香港有线18台
 https://ali.hlspull.yximgs.com/live/88931c00043f2b96ded36a7a76e2a655.flv
 #EXTINF:-1 tvg-id="爱达尔体育1台" tvg-name="爱达尔体育1台" tvg-logo="https://live.fanmingming.com/tv/爱达尔体育1台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",爱达尔体育1台
