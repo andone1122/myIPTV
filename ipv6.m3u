@@ -10,6 +10,8 @@ https://ali.hlspull.yximgs.com/live/9f5fd501c2b29ee435ed00de4d4aca98.flv
 https://v4-5d0c7b68cc16e296da25095c872bee1f.livehwc3.cn/hls.yjjcfw.com/live/vl.m3u8?edge_slice=true&hwSecret=05eb9dd9d24f678be8971ba241ec278720544dc87d6630fbdb2b2864ce64ee66&sub_m3u8=true&hwTime=68256ACE&user_session_id=813af3a93868632f1f6fdb36a390d5d1
 #EXTINF:-1 tvg-id="纬来体育2" tvg-name="纬来体育台2" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台频道",纬来体育2
 http://cdn100.bkpcp.top:8278/videolandsport/playlist.m3u8?tid=M18E1G023596915646903&ct=20106&tsum=d4c7cc5a1a7b0c454cc86412a0369eac
+#EXTINF:-1 tvg-id="纬来体育3" tvg-name="纬来体育台3" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台频道",纬来体育3
+https://ali.hlspull.yximgs.com/live/3719d82328fc109028bdbe564964ed32.flv
 #EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai7.png" group-title="港澳台频道",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",凤凰中文
@@ -23,7 +25,7 @@ https://cdn6.16899.ggff.net/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-id="香港有线18台" tvg-name="香港有线18台" tvg-logo="https://live.fanmingming.com/tv/香港有线18台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",香港有线18台
 https://ali.hlspull.yximgs.com/live/88931c00043f2b96ded36a7a76e2a655.flv
 #EXTINF:-1 tvg-id="爱达尔体育1台" tvg-name="爱达尔体育1台" tvg-logo="https://live.fanmingming.com/tv/爱达尔体育1台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",爱达尔体育1台
-https://ali.hlspull.yximgs.com/live/2dcaac577ccdfbebc86e42a41334644f.flv
+https://ali.hlspull.yximgs.com/live/e27e8958c9346e47ed020e640903d493.flv
 #EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://live.fanmingming.com/tv/智林体育台.png" http-user-agent="AptvPlayer/1.4.6" group-title="港澳台频道",智林体育台
 https://ali.hlspull.yximgs.com/live/2304dd6102b396781be6a18c72a0672b.flv
 #EXTINF:-1 tvg-id="运动-1" tvg-name="运动-1" tvg-logo="https://live.fanmingming.com/tv/运动-1.png" http-user-agent="iPhone" group-title="港澳台频道",运动-1
