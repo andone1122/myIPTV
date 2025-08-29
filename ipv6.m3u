@@ -9,7 +9,8 @@ http://120.87.4.12:80/PLTV/88888973/224/3221226111/10000100000000060000000000916
 http://www.lizhinas.top:1009/rtp/239.252.220.184:5140
 http://112.89.121.21:80/PLTV/88888973/224/3221225739/10000100000000060000000000334545_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2574,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2OFza7xwlksZK/0qNyuSS:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="联通专享",CCTV-5 体育
-http://101.35.240.114:88/live.php?id=CCTV5
+http://livealiop-child.cctv.cn/hls/CCTV53bc308eb3d5646f49391875b23269073H/playlist.m3u8
+http://livealiop-child.cctv.cn/hls/CCTV53bc308eb3d5646f49391875b23269073H/playlist.m3u8
 http://112.89.121.23:80/PLTV/88888973/224/3221226112/10000100000000060000000000916596_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2636,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkF1WCsHaAal3A6dOWgPlh7:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="联通专享",CCTV5+
 http://112.89.121.23:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7819,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2FDVNG+ZNzdxPe0phXLWm:20181110091937,END&GuardEncType=2
@@ -28,12 +29,17 @@ http://112.89.121.24:80/PLTV/88888973/224/3221225746/100001000000000600000000003
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="联通专享",CCTV-12 社会与法
 http://112.89.121.23:80/PLTV/88888973/224/3221225742/10000100000000060000000000334548_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownxWkAW6Edi7D6VntGIcvvN:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="联通专享",CCTV-13 新闻
+http://pull-flv-f26.douyinliving.com/media/stream-694330064914613074.flv?arch_hrchy=s2&expire=68bab56b&major_anchor_level=vip&s_anchor=1&sign=ac176e33334a29b95cacb20fa9c90227&t_id=037-2025082918032375DB01E2F2A0E8250C26-bA6MML&unique_id=stream-694330064914613074_850_flv
 http://www.lizhinas.top:1009/rtp/239.252.219.139:5140
 http://101.18.27.153:808/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="联通专享",CCTV-14 少儿
 http://112.89.121.23:80/PLTV/88888973/224/3221225740/10000100000000060000000000334546_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlLW+9H8/Cw+LdiLmahQz2w:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="联通专享",CCTV-15 音乐
-http://112.89.121.22:80/PLTV/88888973/224/3221225756/10000100000000060000000000334620_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2571,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownHoqwJBM+/BT/7Tde5vw+Z:20181110091937,END&GuardEncType=2
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=2ce06e64df5e6ee50f0affa6e5e63aef&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20250829174423&Channel_ID=0116_2604032000-99000-200300020100001&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=36.139.230.186&SecurityKey=20250829174423&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-8.8.1-RELEASE&userid=1460254850&jmhm=2ce06e64df5e6ee50f0affa6e5e63aef&videocodec=h264&bean=mgspios&tid=ios&conFee=0&mtv_session=056db16981697ee122bed4f1fec7b0d9&sv=10003&ct=ios&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c9ea1c017014e79d0f3a2b6e5502dcb0
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="联通专享",CCTV-16 奥林匹克
+http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="联通专享",CCTV-17 农业农村
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=2ce06e64df5e6ee50f0affa6e5e63aef&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20250829175531&Channel_ID=0116_2604032000-99000-200300020100001&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=36.139.230.186&SecurityKey=20250829175531&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-8.8.1-RELEASE&userid=1460254850&jmhm=2ce06e64df5e6ee50f0affa6e5e63aef&videocodec=h264&bean=mgspios&tid=ios&conFee=0&mtv_session=39a9aed6777c2b5ca7c8af89d08649ed&sv=10003&ct=ios&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a9e7467c5458cb3102047ca120479f24
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="联通专享",CCTV4K
 http://vallest.uk/livehttpplay?channel_id=30029
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="联通专享",CCTV第一剧场
@@ -48,6 +54,7 @@ http://112.89.121.21:80/PLTV/88888973/224/3221225752/100001000000000600000000003
 http://112.89.121.21:80/PLTV/88888973/224/3221225766/10000100000000060000000000337111_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2420,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowniek5vI5PoY2MhAg+QWDrm:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="联通专享",广东新闻
 http://112.89.121.21:80/PLTV/88888973/224/3221225719/10000100000000060000000000334142_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2443,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowk/inuEY/E/H3Sdg8+Iylto:20181110091937,END&GuardEncType=2
+http://112.89.121.21/PLTV/88888973/224/3221225719/10000100000000060000000000334142_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2443,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowk/inuEY/E/H3Sdg8+Iylto:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="联通专享",广东公共
 http://112.89.121.21:80/PLTV/88888973/224/3221225720/10000100000000060000000000334144_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2362,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmqa9lv8pfII6A7oM+O1+jz:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="联通专享",广东体育
@@ -441,10 +448,14 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 
 #地方频道
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://www.helloimg.com/i/2024/10/10/6707defb7b984.png" group-title="地方频道",潮州综合
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://live.fanmingming.cn/tv/潮州综合.png" group-title="地方频道",潮州综合
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701
-#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://www.helloimg.com/i/2024/10/10/6707defb7b984.png" group-title="地方频道",潮州民生
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://live.fanmingming.cn/tv/潮州民生.png"  group-title="地方频道",潮州民生
 http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250701
+#EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.cn/tv/汕头经济.png" group-title="地方频道",汕头经济
+http://ddns.cyruslee.top:8888/rtp/239.77.1.131:5146
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.cn/tv/汕头综合.png" group-title="地方频道",汕头综合
+http://wmh.wmh.ink:6633/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文-备用" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="地方频道",凤凰中文-备用
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文-备用2" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="地方频道",凤凰中文-备用2
