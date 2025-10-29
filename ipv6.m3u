@@ -6,8 +6,7 @@ http://112.89.121.23:80/PLTV/88888973/224/3221225767/100001000000000600000000003
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="联通专享",CCTV-3 综艺
 http://101.35.240.114:88/live.php?id=CCTV3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="联通专享",CCTV-4 中文国际
-http://209.141.50.150:82/live/cctv4.m3u8?jsbt=1757293282&jsbk=23c1666db7851066c7b9ee175cdedda1
-http://209.141.50.150:82/live/cctv4.m3u8?jsbt=1757292952&jsbk=39da11e0f1cb7ea80392f5743286a942
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 http://62.210.171.92:82/live/cctv4.m3u8?jsbt=1757293426&jsbk=86df63b25b11e951bc390a53f5399e11
 http://www.lizhinas.top:1009/rtp/239.252.220.184:5140
 http://112.89.121.21:80/PLTV/88888973/224/3221225739/10000100000000060000000000334545_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2574,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2OFza7xwlksZK/0qNyuSS:20181110091937,END&GuardEncType=2
