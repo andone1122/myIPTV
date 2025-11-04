@@ -173,69 +173,81 @@ http://112.89.69.22/PLTV/88888973/224/3221226356/1000010000000006000000000148121
 http://mgsp-tx2.live.miguvideo.com:8088/wd_r2/cctv/cctv4hd/1500/01.m3u8?msisdn=20251029000035cc08d9514c654e42a22f4d142c286574&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251029000035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.90&SecurityKey=20251029000035&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=e606b706d06de8df3aca9749ebdc14b9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9d02b640c9214a01259755bee8ee181a
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV5
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+http://74.91.20.250:82/live/cctv5.m3u8?jsbt=1762246737&jsbk=4e4a8e1142a770b5741fdc9fc069c002
 http://mgsp-yx2.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=202510290000359fc4ac89499744078a1f31d2979a477f&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251029000035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.90&SecurityKey=20251029000035&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=4ba6c2e718d08869e8de37a5d9545639&encrypt=202ea8c6edf8c9120c9e231e22e3819b
 #EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://mgsp-ali2.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=2025102900003603241a7e63274a408341c1e05810531c&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251029000036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.90&SecurityKey=20251029000036&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&encrypt=c7135703987213bd4b361554ffa3b918&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=c54b6a6522b2a6c5076056fcdac8b462
+http://173.208.179.74:82/live/cctv5p.m3u8?jsbt=1762246798&jsbk=faa24bc799a0057733c745b62aecc814
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV6
+http://74.91.16.250:82/live/cctv6.m3u8?jsbt=1762246740&jsbk=63c94ca85839c1d5f72ae74bf8c0dbf6
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视频道",CCTV7
+http://69.30.245.194:82/live/cctv7.m3u8?jsbt=1762246744&jsbk=0ff6c9c66615483e49c22b2ff09885dd
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV8
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+http://69.30.251.138:82/live/cctv8.m3u8?jsbt=1762246748&jsbk=ddb2a3f3a5ac971487af0f1ceec453ad
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视频道",CCTV9
-http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/51/01.m3u8?msisdn=20251029000036050f55fa93d14ad8809e2f4d3a30ac4e&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251029000036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.90&SecurityKey=20251029000036&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&encrypt=40459a65c037544864ae7d74ecb5c7df&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=4db83a9fa92ac9e28c94903d4d3ab88c
+http://38.75.136.137:82/live1/jsb.m3u8?id=cctv9hd&app=com.mttv.tvhd&version=1.0.4&mac=fu:ck:92:92:ff:ck&nwtime=1762246752&sign=edc47ae153492ade11d4d8c3330bc604&ev=20250805
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV10
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+http://69.30.230.130:82/live/cctv10.m3u8?jsbt=1762246757&jsbk=22fd9fc6bfd25429301d11e0ccf2e74b
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="央视频道",CCTV11
+http://173.208.194.74:82/live/cctv11.m3u8?jsbt=1762246762&jsbk=31909872c54502df3eada98142d37475
 http://mgsp-tx2.live.miguvideo.com:8088/migu/kailu/cctv11hd/51/20200103/01.m3u8?msisdn=2025102900003751888da7cba8457f93711122c1d649ed&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251029000037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.90&SecurityKey=20251029000037&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=cfba8c71cecdb4ed96e1fbe6a7852cce&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=48fc863c82e4a671443b04cebe6cba84
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV12
+http://173.208.194.74:82/live/cctv12.m3u8?jsbt=1762246767&jsbk=ed81e8f9a77dc4ca82fb5718d199c14c
 http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/51/01.m3u8?msisdn=2025102900003749f4b1a9151d4363ac64e45d1943526c&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251029000037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.90&SecurityKey=20251029000037&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&encrypt=38ca7bc93f06ced1ee8e41c97b486c53&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=944d3a23a2df8e56ba41b30dc87e09a3
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视频道",CCTV13
-http://mgsp-ali2.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=202510290000385d1612a4079144c99f6fffeb65e6eb1e&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251029000038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.90&SecurityKey=20251029000038&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&encrypt=b435df9b997b42dc229bdda8dc0e541f&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=a0b78152ded138a65b63cc02c68cde00
+http://173.208.128.194:82/live/cctv13.m3u8?jsbt=1762246772&jsbk=ff77087eeef4fa3da484320d8d76719b
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV14
-http://mgsp-hs2.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=20251029000038d02b2d349eb44e54b23448a8f8e2e343&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251029000038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.90&SecurityKey=20251029000038&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=be4588d5b6e3bddac343895e2ad0424e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8297e5df7881a0f8cc1eb303fbde99bc
+http://198.204.230.114:82/live/cctv14.m3u8?jsbt=1762246777&jsbk=f66797932a3c4d8b3a8f4054f78c6c1c
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="央视频道",CCTV15
-http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=20251029000038a0479944b27743c2bdeae5ad2f0f99bd&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251029000038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.90&SecurityKey=20251029000038&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=d3d6e99436a380cc30e753ae13ebb276&encrypt=8137383f6e0d16961ad4eea06e855551
+http://69.30.251.218:82/live/cctv15.m3u8?jsbt=1762246782&jsbk=3c33e941c381246c230e4a6f0b766802
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV16
-http://101.35.240.114:88/live.php?id=CCTV16
+http://173.208.164.58:82/live/cctv16.m3u8?jsbt=1762246788&jsbk=de19e49bcc7ddefbf2565416895bf5c5
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视频道",CCTV17
-http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/51/01.m3u8?msisdn=20251029000038dfb7cb381f59456097e0173ba342ef3f&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251029000038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.90&SecurityKey=20251029000038&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=7d7aa8b8b6e82560a5e663e5af0c26cf&encrypt=ce36a070ce472f78b371e25a993d00fe
+http://173.208.164.58:82/live/cctv17.m3u8?jsbt=1762246793&jsbk=f7b9cc1f163a939457c1e3b35c287d1a
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
 http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/51/01.m3u8?msisdn=20251029000039d68ce2e800f640459031ac09538444ca&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20251029000039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.13.250.90&SecurityKey=20251029000039&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&encrypt=1e9cd13b38aeac8db914ccb8fa1b0b6a&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=3b72adc5b20959568a476a144c6b8d76
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
 http://mgsp-tx2.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/51/01.m3u8?msisdn=2025102900003904c384538ab045189cc6dee1106bec3e&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251029000039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.90&SecurityKey=20251029000039&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=6eab602ebfca4b9cdebf06676bdc2141&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7fad770b1deecb66730439f2665b89db
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV 4K
-#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u8
+http://107.150.52.50:82/live/cctv4k.m3u8?jsbt=1762247729&jsbk=b2b98cd08c1e458d81d4c56b1a675ef9
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8K.png" group-title="央视频道",CCTV 8K
-#http://116.52.175.3:29999/nptv/cctv8k.m3u8
+http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1762247780&jsbk=14b3a34af0521daff4b3b29d9c3d251f
+http://116.52.175.3:29999/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视频道",CCTV-16 4K
-#http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天元围棋.png" group-title="央视频道",天元围棋
+http://63.141.230.178:82/live/gztywq.m3u8?jsbt=1762249165&jsbk=81092bed6262a2e269475466c7aa3d8e
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重温经典.png" group-title="央视频道",重温经典
+http://173.208.128.194:82/live/cwjd.m3u8?jsbt=1762246805&jsbk=41f1775b2a4263687c254a88c6c6dfdf
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兵器科技.png" group-title="央视频道",CCTV-兵器科技
-http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+http://69.30.213.10:82/live/gfjs.m3u8?jsbt=1762247880&jsbk=b5ce46019a631107c32e40ac25f861e3
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="央视频道",CCTV-世界地理
-http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+http://69.30.213.10:82/live/sjdl.m3u8?jsbt=1762249068&jsbk=bdbc65da1c7db2090b2b30e1b29ef63b
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云足球.png" group-title="央视频道",CCTV-风云足球
-http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+http://173.208.128.194:82/live/fyzq.m3u8?jsbt=1762247875&jsbk=a4276d365c43af788808d90a532fd9b4
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云音乐.png" group-title="央视频道",CCTV-风云音乐
-http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+http://74.91.16.250:82/live/fyyy.m3u8?jsbt=1762247828&jsbk=53475b5240ce14d4c431980a48c1f008
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云剧场.png" group-title="央视频道",CCTV-风云剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+http://69.30.238.178:82/live/fyjc.m3u8?jsbt=1762247822&jsbk=d34f2ed514137eec662017cb53eaeab3
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一剧场.png" group-title="央视频道",CCTV-第一剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+http://69.30.238.178:82/live/dyjc.m3u8?jsbt=1762247818&jsbk=ec85dd98ff3bd6d227242262b9ac131f
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+http://74.91.16.250:82/live/hjjc.m3u8?jsbt=1762247814&jsbk=df0476fa3410c29836cd285513c2e8c2
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/文化精品.png" group-title="央视频道",CCTV-文化精品
 http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/女性时尚.png" group-title="央视频道",CCTV-女性时尚
-http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+http://69.30.213.10:82/live/nxss.m3u8?jsbt=1762247894&jsbk=7b16b976b32fbfebca94935b7f419fbc
 #EXTINF:-1 tvg-id="卫视健康" tvg-name="卫生健康" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卫生健康.png" group-title="央视频道",CCTV-卫生健康
 http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央视台球.png" group-title="央视频道",CCTV-央视台球
-http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+http://69.30.213.10:82/live/ystq.m3u8?jsbt=1762247897&jsbk=3d0af7976436bc18b768347f070c244f
 #EXTINF:-1 tvg-id="央视高网" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央视高网.png" group-title="央视频道",CCTV-央视高网
 http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/电视指南.png" group-title="央视频道",CCTV-电视指南
-http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
+http://38.75.136.137:82/live1/jsb.m3u8?id=dszn&app=com.mttv.tvhd&version=1.0.4&mac=fu:ck:92:92:ff:ck&nwtime=1762247931&sign=601e0fc87971bb5e4738dcc09b27bc30&ev=20250805
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/高尔夫网球.png" group-title="央视频道",CCTV-高尔夫网球
+http://74.91.20.250:82/live/gefwq.m3u8?jsbt=1762247946&jsbk=9b5994f7769c238a7d54d5f7d2eb041c
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国天气.png" group-title="央视频道",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国交通.png" group-title="央视频道",中国交通
@@ -699,6 +711,8 @@ http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 http://fl5.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="体育频道",五星体育
 http://148.135.93.213/live.php?id=五星体育
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云足球.png" group-title="体育频道",CCTV-风云足球
+http://173.208.128.194:82/live/fyzq.m3u8?jsbt=1762247875&jsbk=a4276d365c43af788808d90a532fd9b4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="体育频道",CCTV-5 体育
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="体育频道",CCTV-5-2 体育
@@ -715,6 +729,8 @@ http://mgsp-ali2.live.miguvideo.com:8088/wd_r2/virtuallive/tysy201903/75/01.m3u8
 http://112.89.121.24:80/PLTV/88888973/224/3221226219/10000100000000060000000001339127_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkA8XRtoLtcXa3827qxtKmF:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="☘️广东频道",广东大湾区
 http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视国际版" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视国际版
+http://173.208.177.34:82/live/gdgj.m3u8?jsbt=1762248805&jsbk=58868be7364039d2d4e3e338f25d5cba
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="☘️广东频道",广东新闻
 http://113.65.5.4:85/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="☘️广东频道",广东公共
