@@ -33,7 +33,8 @@ http://112.89.121.24:80/PLTV/88888973/224/3221225746/100001000000000600000000003
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="联通专享",CCTV-12 社会与法
 http://112.89.121.23:80/PLTV/88888973/224/3221225742/10000100000000060000000000334548_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownxWkAW6Edi7D6VntGIcvvN:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="联通专享",CCTV-13 新闻
-http://mgsp-yx2.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=20251109140027d5eab6cc07cc428abe3e2ca3feeee276&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251109140027&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.83&SecurityKey=20251109140027&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=0c7052b5d53b181a4f2887517f7212b8&encrypt=e8d0296e76b3ace632ea2eab76a42bd5
+http://112.27.235.94:8000/hls/14/index.m3u8
+http://ygbh.site/php/bfgd.php?id=067
 http://101.18.27.153:808/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="联通专享",CCTV-14 少儿
 http://112.89.121.23:80/PLTV/88888973/224/3221225740/10000100000000060000000000334546_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlLW+9H8/Cw+LdiLmahQz2w:20181110091937,END&GuardEncType=2
