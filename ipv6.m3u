@@ -489,9 +489,9 @@ https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7
 
 #地方频道
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://live.fanmingming.cn/tv/潮州综合.png" group-title="地方频道",潮州综合
-http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701
+http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://live.fanmingming.cn/tv/潮州民生.png"  group-title="地方频道",潮州民生
-http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250701
+http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20260101
 #EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.cn/tv/汕头经济.png" group-title="地方频道",汕头经济
 http://ddns.cyruslee.top:8888/rtp/239.77.1.131:5146
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.cn/tv/汕头综合.png" group-title="地方频道",汕头综合
