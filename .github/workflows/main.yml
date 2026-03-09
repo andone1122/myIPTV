@@ -1,0 +1,32 @@
+name: 自动合并直播源
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 每6小时运行一次
+  workflow_dispatch:      # 允许手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 安装 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 执行合并脚本
+        run: python update_m3u.py
+
+      - name: 提交更新
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add merged.m3u
+          git commit -m "自动更新直播源" || exit 0
+          git push
