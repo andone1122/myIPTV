@@ -4,7 +4,7 @@ import re
 # 定义需要合并的源
 sources = [
     {"url": "https://raw.githubusercontent.com/andone1122/myIPTV/main/ipv6.m3u", "name": "原仓库频道"},
-    {"url": "https://php.946985.filegear-sg.me/test.m3u", "港澳测试频道": "新增加频道组"}
+    {"url": "https://php.946985.filegear-sg.me/test.m3u", "name": "新增加频道组"}
 ]
 
 def main():
