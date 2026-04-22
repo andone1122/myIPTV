@@ -8,6 +8,7 @@ http://112.123.243.37:50085/tsfile/live/0002_1.m3u8
 http://173.208.194.74:82/live/cctv3.m3u8?jsbt=1776600414&jsbk=f22cdd8b106e7377af8093391f571bbf&from=jsbtv2&app=com.mttv.tvhd&version=1.0.4&ev=20260214
 http://112.27.235.94:8000/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="联通专享",CCTV-4 中文国际
+http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
 http://173.208.236.114:82/live/cctv4.m3u8?jsbt=1776600239&jsbk=7a37f293981a2d3db91362bc9ed157f9&from=jsbtv2&app=com.mttv.tvhd&version=1.0.4&ev=20260214
 http://112.89.69.22/PLTV/88888973/224/3221226356/10000100000000060000000001481216_0.smil/01.m3u8?fmt=ts2hls,444,01.m3u8,0,7871,0,0&accountinfo=eTNOdQUbNlOfVcF5gtrS1CJUos2a9WdacrdOeWjmVmMkPSvNxT4KDzdAnjqe69+2bZ2ayZ3paq3P5pzVRc+vjgJhYUh6EqZj7T7/C1eLVcHEEalEBqKUJuvkq4RS+JgW:20190831110329,END&GuardEncType=2
 http://112.89.121.21:80/PLTV/88888973/224/3221225739/10000100000000060000000000334545_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2574,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2OFza7xwlksZK/0qNyuSS:20181110091937,END&GuardEncType=2
@@ -301,6 +302,7 @@ http://r.jdshipin.com/QFhCq
 #EXTINF:-1 tvg-name="台湾+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/台湾+.png" group-title="  港澳台频道",台湾+
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="  港澳台频道",翡翠台
+http://rihou.cc:555/tv/[PL]无线翡4k
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="  港澳台频道",翡翠台
 http://r.jdshipin.com/qrfbg
@@ -321,6 +323,7 @@ http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/无线新闻.png" group-title="  港澳台频道",无线新闻
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="  港澳台频道",TVB星河
+http://rihou.cc:555/tv/[PL]无线星贰
 http://r.jdshipin.com/sXuuD
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="  港澳台频道",TVB星河
 http://r.jdshipin.com/Voac4
