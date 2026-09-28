@@ -18,6 +18,7 @@ https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&
 http://112.89.121.23:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7819,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2FDVNG+ZNzdxPe0phXLWm:20181110091937,END&GuardEncType=2
 http://112.89.121.23:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7819,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2FDVNG+ZNzdxPe0phXLWm:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" http-user-agent="AptvPlayer-UA" group-title="联通专享",CCTV6
+http://mg.hmysapp.cn:177/偷源狗/咪咕央视/咪咕直连/cctv6.php?id=301
 http://112.27.235.94:8000/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="联通专享",CCTV-7 国防军事
 http://112.89.121.23:80/PLTV/88888973/224/3221225749/10000100000000060000000000334584_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowljL/8+efgIoZxjCG31rI2E:20181110091937,END&GuardEncType=2
@@ -268,14 +269,18 @@ https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7
 #地方频道
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://live.fanmingming.cn/tv/潮州综合.png" group-title="地方频道",潮州综合
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合2" tvg-logo="https://live.fanmingming.cn/tv/潮州综合.png" group-title="地方频道",潮州综合2
+http://61.145.188.90:50055/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://live.fanmingming.cn/tv/潮州民生.png"  group-title="地方频道",潮州民生
 http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20260101
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生2" tvg-logo="https://live.fanmingming.cn/tv/潮州民生.png"  group-title="地方频道",潮州民生2
+http://61.145.188.90:50055/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.cn/tv/汕头经济.png" group-title="地方频道",汕头经济
-http://ddns.cyruslee.top:8888/rtp/239.77.1.131:5146
+http://61.145.188.90:50055/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.cn/tv/汕头综合.png" group-title="地方频道",汕头综合
-http://wmh.wmh.ink:6633/udp/239.77.1.130:5146
+http://61.145.188.90:50055/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文-备用" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="地方频道",凤凰中文-备用
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://173.208.234.146/live/fhzw.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文-备用2" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="地方频道",凤凰中文-备用2
 https://cdn.16899.ggff.net/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="地方频道",TVB翡翠台
@@ -286,6 +291,7 @@ http://101.35.240.114:88/live.php?id=翡翠台
 https://cdn6.101.qzz.io/163189/wxxw
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="  港澳台频道",凤凰中文
+http://vas-eu-pull.alivecdn.com/live/Dqxl9Z0MqDZHRPA7KpttyGumj1hvxu.flv
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="  港澳台频道",凤凰资讯
 http://r.jdshipin.com/0Rp07
@@ -602,7 +608,7 @@ http://69.30.230.130:82/live/gdxw.m3u8?jsbt=1762249539&jsbk=b4e33c59e7fc50b4be8d
 #EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="☘️广东频道",广东公共
 http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="☘️广东频道",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
+http://61.145.188.90:50055/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="☘️广东频道",广东影视
 http://119.32.12.17:2901/udp/224.1.100.11:11111
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="☘️广东频道",广东少儿
