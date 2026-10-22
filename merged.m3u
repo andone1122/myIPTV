@@ -815,3 +815,77 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道（高清）",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>jackTV 公益直播服务</title>
+<meta name="description" content="jackTV 公益直播服务与订阅地址、Telegram 群组信息。">
+<style>
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; line-height: 1.6; }
+header { padding: 32px 16px; text-align: center; background: radial-gradient(1000px 400px at 50% -200px, #e9f0ff, transparent); }
+main { max-width: 880px; margin: 0 auto; padding: 24px 16px 48px; }
+h1 { font-size: 32px; margin: 8px 0 0; }
+h2 { font-size: 22px; margin-top: 28px; }
+p { margin: 10px 0; }
+.card { border: 1px solid rgba(0,0,0,.08); border-radius: 12px; padding: 16px; background: rgba(255,255,255,.6); backdrop-filter: blur(6px); }
+.grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
+.hero-img { width: 180px; height: 180px; border-radius: 16px; object-fit: cover; box-shadow: 0 8px 24px rgba(0,0,0,.15); }
+.center { display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap; }
+a.button { display: inline-block; padding: 10px 16px; border-radius: 10px; background: #2b5cff; color: #fff; text-decoration: none; font-weight: 600; }
+a.button:hover { filter: brightness(1.05); }
+code, .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+footer { text-align: center; color: #666; padding: 24px 16px; }
+@media (min-width: 720px) { .grid { grid-template-columns: 1.1fr 1fr; } header { padding: 48px 16px 24px; } }
+</style>
+</head>
+<body>
+<header>
+<div class="center">
+<img class="hero-img" src="https://php.946985.filegear-sg.me/logo/jackiptv.jpg" alt="jackTV 标识">
+</div>
+<h1>jackTV 公益直播</h1>
+<p class="mono">稳定、简单、开箱即用的公益 IPTV 源</p>
+</header>
+<main>
+<section class="grid">
+<div class="card">
+<h2>jackTV 直播订阅</h2>
+<p>将下方订阅地址导入到你常用的播放器（如 <span class="mono">OK影视</span>、<span class="mono">TiviMate</span>、<span class="mono">VLC</span> 等）即可开始观看。</p>
+<p>
+<strong>M3U 订阅：</strong>
+<a href="https://php.946985.filegear-sg.me/jackTV.m3u" target="_blank" rel="noopener noreferrer">https://php.946985.filegear-sg.me/jackTV.m3u</a>
+</p>
+<p>
+<a class="button" href="https://php.946985.filegear-sg.me/jackTV.m3u" target="_blank" rel="noopener noreferrer">打开订阅</a>
+</p>
+</div>
+<div class="card">
+<h2>Telegram 群组</h2>
+<p>获取更新通知、反馈问题、交流使用，欢迎加入：</p>
+<p>
+<a href="https://t.me/jacktvb" target="_blank" rel="noopener noreferrer">https://t.me/jacktvb</a>
+</p>
+<p>
+<a class="button" href="https://t.me/jacktvb" target="_blank" rel="noopener noreferrer">加入 Telegram</a>
+</p>
+</div>
+</section>
+<section class="card" style="margin-top: 16px;">
+<h2>使用说明</h2>
+<ul>
+<li>订阅为公益服务，请勿用于商业用途。</li>
+<li>如遇临时不可用，稍后重试或在群组内关注通知。</li>
+<li>建议使用支持 <span class="mono">M3U</span> 播放列表的客户端以获得最佳体验。</li>
+</ul>
+</section>
+</main>
+<footer>
+<small>© 2026 jackTV</small>
+</footer>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4e56429ac4c1418',t:'MTc5MjYzOTQ4OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"151badba813045209ee04c9393dae140","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
